@@ -1,3 +1,15 @@
-# RubyData
+# RubyData.github.io
 
-RubyData is a community for developers and users who use opensource data tools with Ruby.
+This is the source of https://RubyData.github.io/.
+
+## License
+
+Copyright (C) 2017 RubyData.
+
+### Texts
+
+[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode)
+
+### Tools
+
+[MIT License](https://mit-license.org/)
