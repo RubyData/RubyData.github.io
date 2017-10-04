@@ -5,7 +5,7 @@ RubyData aims to increase two populations of:
 1. Developers who write opensource data tools for Rubyists.
 2. Users who use opensource data tools with their products written in Ruby.
 
-For such developers and users, RubyData provides places to collaborate with each other.
+For such developers and users, RubyData provides environments to try the tools and places to collaborate with each other.
 
 # Upcoming Events
 
