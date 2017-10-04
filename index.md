@@ -11,24 +11,18 @@ For such developers and users, RubyData provides places to collaborate with each
 
 - RubyData Tokyo Workshop 2017.10.26 (to be announced)
 
-# Projects, organizations, and communities
+# Related projects, organizations, and communities
 
-There are some projects, organizations, and communities that aim to make data tools for Ruby.
+There are several projects, organizations, and communities that aim to make data tools for Ruby.
 
 ## Red Data Tools
 
-Red Data Tools is a project that provides data processing tools ecosystem based on Apache Arrow for Ruby
-
-Website: https://red-data-tools.github.io/
+[Red Data Tools](https://red-data-tools.github.io/) is a project that provides data processing tools ecosystem based on Apache Arrow for Ruby
 
 ## Ruby Numo
 
-Ruby Numo provides [numo-narray](https://github.com/ruby-numo/narray) and data analysis environment based on numo-narray.
-
-Website: https://github.com/ruby-numo
+[Ruby Numo](https://github.com/ruby-numo) provides [numo-narray](https://github.com/ruby-numo/narray) and data analysis environment based on numo-narray.
 
 ## SciRuby
 
-SciRuby is a community of developers and users of data tools based on [nmatrix](http://sciruby.com/nmatrix/) library.
-
-Website: http://sciruby.com/
+[SciRuby](http://sciruby.com/) is a community of developers and users of data tools based on [nmatrix](http://sciruby.com/nmatrix/) library.
