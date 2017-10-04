@@ -1,6 +1,6 @@
 # RubyData.github.io
 
-This is the source of https://RubyData.github.io/.
+This is the source of https://ruby-data.org/.
 
 ## License
 
