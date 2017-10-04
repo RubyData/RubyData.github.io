@@ -7,7 +7,7 @@ RubyData aims to increase two populations of:
 
 For such developers and users, RubyData wants to provide the following things:
 
-- Environment to try the tools
+- Environments to try the tools
 - Documents to learn the tools and related topics
 - Places to collaborate with each other
 
