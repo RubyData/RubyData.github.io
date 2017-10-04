@@ -17,7 +17,7 @@ There are some projects, organizations, and communities that aim to make data to
 
 ## Red Data Tools
 
-Red Data Tools is a project that provides data processing tools for Ruby.
+Red Data Tools is a project that provides data processing tools ecosystem based on Apache Arrow for Ruby
 
 Website: https://red-data-tools.github.io/
 
