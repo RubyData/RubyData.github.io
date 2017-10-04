@@ -17,7 +17,7 @@ There are several projects, organizations, and communities that aim to make data
 
 ## Red Data Tools
 
-[Red Data Tools](https://red-data-tools.github.io/) is a project that provides data processing tools ecosystem based on Apache Arrow for Ruby
+[Red Data Tools](https://red-data-tools.github.io/) is a project that provides data processing tools ecosystem based on [Apache Arrow](https://arrow.apache.org/) for Ruby.
 
 ## Ruby Numo
 
