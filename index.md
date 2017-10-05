@@ -34,6 +34,10 @@ There are several projects, organizations, and communities that aim to make data
 
 [SciRuby](http://sciruby.com/) is a community of developers and users of data tools based on [nmatrix](http://sciruby.com/nmatrix/) library.
 
+## BioRuby
+
+[BioRuby](http://bioruby.org/) develops open source bioinformatics tools for Ruby.
+
 ## Awesome Lists
 
 There are useful lists of libraries, articles, and so on managed by [@arbox](https://github.com/arbox).
