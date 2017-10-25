@@ -16,7 +16,7 @@ so we wants to cooperate with other organizations such as PyData.
 
 # Upcoming Events
 
-- RubyData Tokyo Workshop 2017.10.26 (to be announced)
+- [RubyData Tokyo Workshop 2017.10.26](https://rubyassociation.doorkeeper.jp/events/66268) (in Japanese)
 
 # Related projects, organizations, and communities
 
