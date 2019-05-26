@@ -1,3 +1,10 @@
+---
+layout: default
+title: HOME
+---
+
+## *A COMMUNITY FOR DEVELOPERS AND USERS WHO USE OPENSOURCE DATA TOOLS WITH RUBY*
+
 # About RubyData
 
 RubyData aims to increase two populations of:
