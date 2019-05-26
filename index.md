@@ -4,6 +4,7 @@ title: HOME
 ---
 
 ## *A COMMUNITY FOR DEVELOPERS AND USERS WHO USE OPENSOURCE DATA TOOLS WITH RUBY*
+![image ruby-logo](/assets/ruby-logo.png)
 
 # About RubyData
 
