@@ -22,10 +22,6 @@ For such developers and users, RubyData wants to provide the following things:
 Moreover, RubyData wants to make borderless world between other language communities,
 so we wants to cooperate with other organizations such as PyData.
 
-# Upcoming Events
-
-- [RubyData Tokyo Workshop 2017.10.26](https://rubyassociation.doorkeeper.jp/events/66268) (in Japanese)
-
 # Related projects, organizations, and communities
 
 There are several projects, organizations, and communities that aim to make data tools for Ruby.
