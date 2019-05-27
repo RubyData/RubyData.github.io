@@ -1,6 +1,6 @@
 ---
 layout: default
-title: LINK
+title: LINKS
 ---
 
 # Jupyter Notebook
