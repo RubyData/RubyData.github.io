@@ -3,12 +3,11 @@ layout: default
 title: HOME
 ---
 
-## *A COMMUNITY FOR DEVELOPERS AND USERS WHO USE OPENSOURCE DATA TOOLS WITH RUBY*
-![image ruby-logo](/assets/ruby-logo.png)
+# ![image ruby-logo](/assets/ruby-logo.png) Ruby for Data Science
 
-# Related projects, organizations, and communities
+## *A COMMUNITY FOR DEVELOPERS AND USERS WHO USE OPENSOURCE DATA TOOLS*
 
-There are several projects, organizations, and communities that aim to make data tools for Ruby.
+Projects, organizations, and communities that make Ruby tools for data science.
 
 ## Red Data Tools
 
